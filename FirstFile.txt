@@ -1,2 +1,4 @@
 Hello there.
 just added new line to the old file...
+take input from the user
+and add them.
